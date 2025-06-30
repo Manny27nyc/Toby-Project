@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var Web3 = require('web3');
 var abi = require('./abi.json');
 
